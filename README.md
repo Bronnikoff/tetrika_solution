@@ -1,6 +1,6 @@
 # Тестовое задание
 
-Результат выполнения в файле [!solution.ipynb](solution.ipynb)
+Результат выполнения в файле [solution.ipynb](solution.ipynb)
 
 
 -----------------------
